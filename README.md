@@ -4,7 +4,7 @@ For this assignment, you will be working with a Casino domain.
 
 We have three models: `Gambler`, `Bid`, and `Dealer`.
 
-For our purposes, a `Gambler` has many `Bids`s, a `Dealer` has many `Bids`s, and `Bid`s belong to both `Gambler` and `Dealer`.
+For our purposes, a `Gambler` has many `Bids`, a `Dealer` has many `Bids`, and `Bid` belong to both `Gambler` and `Dealer`.
 
 `Gambler` - `Dealer` is a many to many relationship.
 
